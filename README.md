@@ -41,6 +41,39 @@ This project leverages **Generative AI, Llama 3.3, and AI Agents** to build an *
 - **Cloud & Deployment** → AWS / Google Cloud  
 - **APIs** → RBI Data APIs, Bank APIs  
 
+## RoadMap
+```
+📌 Week 1: Research & Data Collection  
+   ├── 🔍 Identify financial data sources  
+   ├── 🛠️ Set up data extraction pipelines  
+   
+📌 Week 2: Model Selection & Preparation  
+   ├── 🤖 Choose Llama 3.3 & fine-tune it  
+   ├── 🔗 Implement AI agents  
 
+📌 Week 3: Backend Development  
+   ├── 🏗️ Develop AI chatbot engine  
+   ├── 🔐 Set up secure API integrations  
+
+📌 Week 4: Frontend Development  
+   ├── 🖥️ Build user-friendly chatbot UI  
+   ├── ⚡ Implement real-time interactions  
+
+📌 Week 5: Feature Enhancements  
+   ├── 🎯 Add personalized recommendations  
+   ├── 🗣️ Enable voice & text-based AI  
+
+📌 Week 6: Testing & Optimization  
+   ├── 🧪 Conduct functional & performance tests  
+   ├── 🚀 Optimize AI response speed  
+
+📌 Week 7: Deployment & Security Review  
+   ├── ☁️ Deploy on cloud for scalability  
+   ├── 🔒 Conduct security audits  
+
+📌 Week 8: Launch & Market Validation  
+   ├── 🚀 Release beta version  
+   ├── 📊 Gather feedback & iterate  
+```
 
 
