@@ -33,14 +33,6 @@ This project leverages **Generative AI, Llama 3.3, and AI Agents** to build an *
 
 ---
 
-## **Tech Stack** 🛠️  
-- **Backend** → Python (FastAPI, Flask)  
-- **Frontend** → React.js / Streamlit  
-- **AI Models** → Llama 3.3, OpenAI LLMs  
-- **Database** → PostgreSQL / MongoDB  
-- **Cloud & Deployment** → AWS / Google Cloud  
-- **APIs** → RBI Data APIs, Bank APIs  
-
 ## RoadMap
 ```
 📌 Week 1: Research & Data Collection  
