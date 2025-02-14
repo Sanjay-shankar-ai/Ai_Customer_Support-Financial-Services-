@@ -28,6 +28,8 @@ This project leverages **Generative AI, Llama 3.3, and AI Agents** to build an *
 ## **Use Case Diagram** 📊  
 ![Ze6WGeiKHNSHlYH_tO0Cf (1)](https://github.com/user-attachments/assets/0fd4b4fe-cd8c-4405-bcdb-22064eacaef2)
 
+## Proof of Concept (PoC)
+![Screenshot 2025-02-14 111553](https://github.com/user-attachments/assets/04fbeede-64ac-4e72-a135-5db9a0786dde)
 
 ---
 
